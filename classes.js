@@ -1,4 +1,5 @@
-﻿class Student {
+﻿// first loop
+class Student {
     constructor(name, age, score, courses) {
         this.name = name;
         this.age = age;
